@@ -204,8 +204,7 @@ import plotly.graph_objects as go
 fig = make_subplots(specs=[[{'secondary_y': True}]])
 
 # Bar colors for temperature and relative humidity with transparency
-temperature_color =
-'blue'  # Light Blue with alpha = 0.7
+temperature_color = 'blue'  # Light Blue with alpha = 0.7
 humidity_color = 'rgba(150, 170, 230,0.5)'  # Orange with alpha = 0.7
 
 
