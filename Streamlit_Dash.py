@@ -8,8 +8,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 import os
 import warnings
 warnings.filterwarnings('ignore')
-#cd /Users/priyamadhurigattem/Downloads/weather-data-analysis-dash-main
-#streamlit run Dashboard.py
+
 #Setting the title and page icon
 st.set_page_config(page_title="WEATHER", page_icon=":sun_behind_rain_cloud:", layout="wide")
 st.title(':partly_sunny_rain: Weather Data Analysis')
