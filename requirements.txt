@@ -2,7 +2,8 @@ altair
 numpy
 pandas
 pydeck
-streamlit
-plotly
 scipy
 openpyxl
+streamlit==0.86.0 
+plotly==5.3.1 
+statsmodels==0.13.0 
